@@ -2,7 +2,7 @@
 
 ## Overview
 
-imageCLX is a tool designed to automate clicking on specific graphical elements within your main monitor by using image recognition. It helps automate repetitive tasks by identifying GUI elements and clicking on them for you.
+imageCLX is a tool designed to automate clicking on specified graphical elements within your main monitor by using image recognition. It helps automate repetitive tasks by identifying GUI elements and clicking on them for you.
 
 ## Features
 
