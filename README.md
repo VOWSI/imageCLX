@@ -4,6 +4,12 @@
 
 imageCLX is a tool designed to automate clicking on specified graphical elements within your main monitor by using image recognition. It helps automate repetitive tasks by identifying GUI elements and clicking on them for you.
 
+## Download
+https://github.com/VOWSI/imageCLX/releases/tag/v1.0
+
+  Virus Total (does flag because it takes control of mouse inputs as expected):
+  https://www.virustotal.com/gui/file/ef9489dbcb919c1c6c9e20fa94b3f355326e9004e80024db5cf4fe03ca84d3da/behavior
+
 ## Features
 
 - **Upload Target Image**: Allows you to upload an image of the target element to click.
