@@ -37,6 +37,7 @@ imageCLX is a tool designed to automate clicking on specific graphical elements 
 
 - The **threshold value** should be between 0.0 and 1.0. A value below 0.8 may produce false positives, while a higher value increases accuracy but may miss valid matches.
 - While scanning is active, the threshold cannot be adjusted.
+- Scuffed project with CHATGPT
 
 ## Disclaimer
 
