@@ -7,7 +7,7 @@ imageCLX is a tool designed to automate clicking on specified graphical elements
 ## Download
 https://github.com/VOWSI/imageCLX/releases/tag/v1.0
 
-  Virus Total (does flag because it takes control of mouse inputs as expected):
+  Virus Total (does flag unsure how to resolve):
   https://www.virustotal.com/gui/file/ef9489dbcb919c1c6c9e20fa94b3f355326e9004e80024db5cf4fe03ca84d3da/behavior
 
 ## Features
